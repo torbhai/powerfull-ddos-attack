@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ TorBhai Dos Script v.1
-# by Can shantanu kumar
+# by shantanu kumar jha
 # only for legal purpose
 
 
